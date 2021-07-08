@@ -1,0 +1,26 @@
+string
+text in python
+int
+function to turn strings into integer
+float
+function to turn strings into floats (numbers with decimal parts)
+list
+a datatype used to store multiple values
+for
+keyword used to repeat a certain number of times
+while
+keyword used to repeat until a condition is met
+if
+keyword used in selection between 2 or more options
+file
+function used to open a file
+readlines
+function used to read the contents of a file into a list
+split
+method to split a string into a list
+strip
+string method used to strip off blanks and non printable characters from ends of a string
+ljust
+string method used to add blank spaces to the right of a string (left justify)
+rjust
+string method used to add blank spaces to the right of a string (left justify)
